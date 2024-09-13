@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **some private projects**
 
-- 📫 How to reach me **sergejsteinsiek@gmail.com**
-
 - ⚡ Fun fact **I use Arch btw.**
 
 <h3 align="left">Connect with me:</h3>
