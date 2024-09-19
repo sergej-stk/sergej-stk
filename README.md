@@ -1,5 +1,10 @@
 <h2 align="center">Hi! My name is sergej-stk.</h2>
 
+<div align="left">
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sergej-stk&count_private=true&theme=tokyonight&showicons=true)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sergej-stk&langs_count=5&theme=tokyonight)]()
+</div>
+
 ###
 
 <div align="left">
@@ -45,5 +50,3 @@
 </div>
 
 ###   
-
-![snake animation](https://github.com/sergej-stk/blob/output/github-contribution-grid-snake2.svg)
