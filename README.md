@@ -46,4 +46,4 @@
 
 ###   
 
-![snake animation](https://github.com/<seu user name>sergej-stk<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/sergej-stk/blob/output/github-contribution-grid-snake2.svg)
