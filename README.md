@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
 
----
-
 <h3 align="left">Languages/Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -40,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
----
-
 <h3 align="left">Contact:</h3>
 <div align="left">
   <a href="https://www.instagram.com/sergej.stk/" target="_blank">
@@ -51,8 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
----
 
 <h3 align="left">Stats:</h3>
 <div align="center">
@@ -66,5 +60,3 @@
 ![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)  
 
 </div>
-
----
