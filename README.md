@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is sergej-stk.</h2>
+<h2 align="center">Welcome to My GitHub Profile! Explore My Projects!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
 
@@ -52,5 +52,3 @@
 ![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)
 
 ###
-
-![snake gif](https://github.com/sergej-stk/sergej-stk/blob/output/github-contribution-grid-snake.gif)
