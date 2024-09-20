@@ -53,4 +53,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sergej-stk/sergej-stk/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/sergej-stk/sergej-stk/blob/output/github-contribution-grid-snake.gif)
