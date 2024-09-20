@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to My GitHub Profile! Explore My Projects!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
-
+---
 <h3 align="left">Languages/Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
