@@ -1,8 +1,7 @@
-<h2 align="center">Welcome to My GitHub Profile!    Explore My Projects!</h2>
+
+<h2 align="center">Welcome to My GitHub Profile! Explore My Projects!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
-
-###
 
 <h3 align="left">Languages/Tools:</h3>
 <div align="left">
@@ -39,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 <h3 align="left">Contact:</h3>
 <div align="left">
   <a href="https://www.instagram.com/sergej.stk/" target="_blank">
@@ -48,15 +45,17 @@
   </a>
 </div>
 
-###
-
 <h3 align="left">Stats:</h3>
-<div align="center    ">
+<div align="center">
 
-![sergej-stk's Stats](https://github-readme-stats.vercel.app/api?username=sergej-stk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)     
+![sergej-stk's Stats](https://github-readme-stats.vercel.app/api?username=sergej-stk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 
 </div>
 
-###
+<div align="center">
+
+![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)  
+
+</div>
+
+---
