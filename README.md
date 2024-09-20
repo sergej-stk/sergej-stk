@@ -51,11 +51,11 @@
 ###
 
 <h3 align="left">Stats:</h3>
-<div align="left">
+<div align="center    ">
 
 ![sergej-stk's Stats](https://github-readme-stats.vercel.app/api?username=sergej-stk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)
+![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)     
 
 </div>
 
