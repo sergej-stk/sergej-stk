@@ -47,16 +47,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-<h3 align="left">Stats:</h3>
-<div align="center">
-
-![sergej-stk's Stats](https://github-readme-stats.vercel.app/api?username=sergej-stk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-
-</div>
-
-<div align="center">
-
-![sergej-stk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergej-stk&theme=vue-dark&hide_border=true)  
-
-</div>
