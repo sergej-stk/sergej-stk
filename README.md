@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
 
 <h3 align="left">About me:</h3>
-<div align="center">
-  WIP - Work in progress
+<div align="left">
+  ```JSON
+  {
+  }
+  ```
 </div>
 
 <h3 align="left">Languages/Tools:</h3>
