@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
 
-<h3 align="left">About me (WIP):</h3>
+<h3 align="left">About me:</h3>
 
 ```javascript
 {
@@ -16,7 +16,7 @@
     "backend":  ["java", "c#", "delphi", "python"],
     "mobile":  ["java", "kotlin"],
   },
-  technologies: {
+  "technologies": {
     "databases": ["mssql", "oracle", "postgresql", "mysql"],
     "mobile": ["android"],
     "devOps": ["gitlab", "github", "azure"],
@@ -25,8 +25,7 @@
     "role": "Apprentice IT Specialist for Application Development",
     "languages": ["c#", "delphi"],
     "technologies": {
-      "databases": ["MSSQL", "Oracle"],
-      "devOps": ["GitLab"]
+      "databases": ["MSSQL", "Oracle"]
     }
   }
 }
