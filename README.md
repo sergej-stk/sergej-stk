@@ -15,12 +15,12 @@
     "frontend":  ["java", "javascript"],
     "backend":  ["java", "c#", "delphi", "python"],
     "desktop":  ["Delphi", "C# (Avalonia UI)"],
-    "mobile":  ["java", "kotlin"],
+    "mobile":  ["java", "kotlin"]
   },
   "technologies": {
     "databases": ["mssql", "oracle", "postgresql", "mysql"],
     "mobile": ["android"],
-    "devOps": ["gitlab", "github", "azure"],
+    "devOps": ["gitlab", "github", "azure"]
   "company": {
     "name": "Kufer Software GmbH",
     "role": "Apprentice IT Specialist for Application Development",
