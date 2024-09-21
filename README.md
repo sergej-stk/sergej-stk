@@ -5,10 +5,11 @@
 
 <h3 align="left">About me:</h3>
 <div align="left">
-  ``` JSON
-  {
-  }
-  ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 </div>
 
 <h3 align="left">Languages/Tools:</h3>
