@@ -12,14 +12,22 @@
   "age":  21,
   "languages": {
     "natural": ["german", "english"],
-    "frontend":  [],
-    "backend":  [],
-    "mobile":  [],
+    "frontend":  ["java", "javascript"],
+    "backend":  ["java", "c#", "delphi", "python"],
+    "mobile":  ["java", "kotlin"],
   },
   technologies: {
-    databases: [],
-    mobile: [],
-    devOps: [],
+    "databases": ["mssql", "oracle", "postgresql", "mysql"],
+    "mobile": ["android"],
+    "devOps": ["gitlab", "github", "azure"],
+  "company": {
+    "name": "Kufer Software GmbH",
+    "role": "Apprentice IT Specialist for Application Development",
+    "languages": ["c#", "delphi"],
+    "technologies": {
+      "databases": ["MSSQL", "Oracle"],
+      "devOps": ["GitLab"]
+    }
   }
 }
 ```
