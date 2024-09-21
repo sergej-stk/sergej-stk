@@ -4,9 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
 
 <h3 align="left">About me:</h3>
-<div align="left">
-  WIP
-</div>
+
+```javascript
+{
+  "first_name": "Sergej",
+  "last_name": "Steinsiek",
+  "age":  21,
+}
+```
 
 <h3 align="left">Languages/Tools:</h3>
 <div align="left">
