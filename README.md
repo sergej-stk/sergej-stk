@@ -19,6 +19,7 @@
   },
   "technologies": {
     "databases": ["mssql", "oracle", "postgresql", "mysql"],
+    "desktop":  ["linux", "windows"],
     "mobile": ["android"],
     "devOps": ["gitlab", "github", "azure"]
   "company": {
