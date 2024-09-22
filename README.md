@@ -23,7 +23,7 @@
     "devOps": ["gitlab", "github", "azure"]
   "company": {
     "name": "Kufer Software GmbH",
-    "role": "Apprentice IT Specialist for Application Development",
+    "role": "Software Developer",
     "languages": ["c#", "delphi"],
     "technologies": {
       "databases": ["MSSQL", "Oracle"]
