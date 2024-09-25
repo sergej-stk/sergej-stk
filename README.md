@@ -14,7 +14,7 @@
     "natural": ["german", "english"],
     "frontend":  ["java", "javascript"],
     "backend":  ["java", "c#", "delphi", "python"],
-    "desktop":  ["Delphi", "C# (Avalonia UI)"],
+    "desktop":  ["Delphi", "c# (avalonia ui)"],
     "mobile":  ["java", "kotlin"]
   },
   "technologies": {
