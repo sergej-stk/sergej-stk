@@ -7,8 +7,8 @@
 
 ```javascript
 {
-  "first_name": "Sergej",
-  "last_name": "Steinsiek",
+  "first_name": "sergej",
+  "last_name": "steinsiek",
   "age":  21,
   "languages": {
     "natural": ["german", "english"],
@@ -23,11 +23,11 @@
     "mobile": ["android"],
     "devOps": ["gitlab", "github", "azure"]
   "company": {
-    "name": "Kufer Software GmbH",
-    "role": "Software Developer",
+    "name": "kufer software gmbh",
+    "role": "software developer",
     "languages": ["c#", "delphi"],
     "technologies": {
-      "databases": ["MSSQL", "Oracle"]
+      "databases": ["mssql", "oracle"]
     }
   }
 }
