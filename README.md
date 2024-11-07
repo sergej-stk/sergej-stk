@@ -14,14 +14,14 @@
     "natural": ["german", "english"],
     "frontend":  ["java", "javascript"],
     "backend":  ["java", "c#", "delphi", "python"],
-    "desktop":  ["delphi", "c# (avalonia ui)"],
+    "desktop":  ["delphi", "c#"],
     "mobile":  ["java", "kotlin"]
   },
   "technologies": {
     "databases": ["mssql", "oracle", "postgresql", "mysql"],
     "desktop":  ["linux", "windows"],
     "mobile": ["android"],
-    "devOps": ["gitlab", "github", "azure"]
+    "devOps": ["gitlab", "github", "azure", "docker"]
   "company": {
     "name": "kufer software gmbh",
     "role": "software developer",
