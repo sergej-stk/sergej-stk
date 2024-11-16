@@ -12,7 +12,7 @@
   "age":  21,
   "languages": {
     "natural": ["german", "english"],
-    "frontend":  ["java", "javascript"],
+    "frontend":  ["java", "javascript", "vuejs"],
     "backend":  ["java", "c#", "delphi", "python"],
     "desktop":  ["delphi", "c#"],
     "mobile":  ["java", "kotlin"]
