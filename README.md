@@ -1,7 +1,9 @@
 
 <h3 align="center">Welcome to My GitHub Profile! Explore My Projects!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" alt="sergej-stk" /> </p>
+![Github Profile Counter](https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat)
+![Github Follower](https://img.shields.io/github/followers/sergej-stk)
+![Github Repo Stars](https://img.shields.io/github/stars/sergej-stk)
 
 <h3 align="left">About me:</h3>
 
