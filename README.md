@@ -1,11 +1,26 @@
+<br>
+<br>
+<h3 
+  align="center">
+  Welcome to My GitHub Profile! Explore My Projects!
+</h3>
 
-<h3 align="center">Welcome to My GitHub Profile! Explore My Projects!</h2>
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Github Profile Counter" />
+  <img 
+    src="https://img.shields.io/github/followers/sergej-stk" 
+    alt="Github Follower" />
+  <img 
+    src="https://img.shields.io/github/stars/sergej-stk" 
+    alt="Github Repo Stars" />
+</div>
 
-![Github Profile Counter](https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat)
-![Github Follower](https://img.shields.io/github/followers/sergej-stk)
-![Github Repo Stars](https://img.shields.io/github/stars/sergej-stk)
-
-<h3 align="left">About me:</h3>
+<h3 
+  align="left">
+  About me:
+</h3>
 
 ```javascript
 {
@@ -35,8 +50,12 @@
 }
 ```
 
-<h3 align="left">Stats:</h3>
-<div align="center">
+<h3 
+  align="left">
+  Stats:
+</h3>
+<div 
+  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sergej-stk&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergej-stk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
