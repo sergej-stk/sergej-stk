@@ -2,19 +2,31 @@
 <br>
 <h3 
   align="center">
-  Welcome to My GitHub Profile! Explore My Projects!
+  <b>
+    Welcome to My GitHub Profile! Explore My Projects!
+  </b>
 </h3>
 
-<div align="center">
-  <img 
+<div 
+  align="center">
+  <a 
+    href="https://github.com/sergej-stk">
+    <img 
     src="https://komarev.com/ghpvc/?username=sergej-stk&label=Profile%20views&color=0e75b6&style=flat" 
     alt="Github Profile Counter" />
-  <img 
-    src="https://img.shields.io/github/followers/sergej-stk" 
-    alt="Github Follower" />
-  <img 
-    src="https://img.shields.io/github/stars/sergej-stk" 
-    alt="Github Repo Stars" />
+  </a>
+  <a
+    href="https://github.com/sergej-stk">
+    <img 
+      src="https://img.shields.io/github/followers/sergej-stk" 
+      alt="Github Follower" />    
+  </a>
+  <a
+    href="https://github.com/sergej-stk">
+    <img 
+      src="https://img.shields.io/github/stars/sergej-stk" 
+      alt="Github Repo Stars" />
+  </a>
 </div>
 
 <h3 
