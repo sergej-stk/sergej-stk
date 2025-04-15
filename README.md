@@ -42,12 +42,12 @@
   "languages": {
     "natural": ["german", "english"],
     "frontend":  ["java", "javascript", "vuejs"],
-    "backend":  ["java", "c#", "delphi", "python"],
+    "backend":  ["java", "c#", "delphi", "python", "go"],
     "desktop":  ["delphi", "c#"],
     "mobile":  ["java", "kotlin"]
   },
   "technologies": {
-    "databases": ["mssql", "oracle", "postgresql", "mysql"],
+    "databases": ["mssql", "oracle", "postgresql", "mysql", "mariadb"],
     "desktop":  ["linux", "windows"],
     "mobile": ["android"],
     "devOps": ["gitlab", "github", "azure", "docker"]
