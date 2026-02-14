@@ -41,7 +41,7 @@
   "age":  22,
   "languages": {
     "natural": ["german", "english"],
-    "frontend":  ["java", "javascript", "vuejs"],
+    "frontend":  ["c#", "java", "javascript", "vuejs"],
     "backend":  ["java", "c#", "delphi", "python", "go"],
     "desktop":  ["delphi", "c#"],
     "mobile":  ["java", "kotlin"]
