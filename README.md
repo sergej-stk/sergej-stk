@@ -52,9 +52,9 @@
     "mobile": ["android"],
     "devOps": ["gitlab", "github", "azure", "docker"]
   "company": {
-    "name": "kufer software gmbh",
+    "name": "item kg",
     "role": "software developer",
-    "languages": ["c#", "delphi"],
+    "languages": ["c#", "java"],
     "technologies": {
       "databases": ["mssql", "oracle"]
     }
