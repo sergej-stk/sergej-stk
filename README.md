@@ -51,13 +51,5 @@
     "desktop":  ["linux", "windows"],
     "mobile": ["android"],
     "devOps": ["gitlab", "github", "azure", "docker"]
-  "company": {
-    "name": "item kg",
-    "role": "software developer",
-    "languages": ["c#", "java"],
-    "technologies": {
-      "databases": ["mssql", "oracle"]
-    }
-  }
 }
 ```
